@@ -4,13 +4,12 @@
 * VSCODE ACCOUNT
 * IAM USER CREDENTIALS
 ### Instance was lauched by group leader and an IAM user account was opened for all the group members.
-
-
+![Alt text](PICTURES/leader.jpg)
 # AWS CLI CONFIGURATION
 * Run *** aws configure*** with IAM user credentials received from the group capt
 * details of the keys on the IAM user created are 
-* Secret key: xxxxxx
-* Key: xxxxxxx
+* Secret key: xxxxxxxxxx
+* Key: xxxxxxxxxx
 with the region and name settings
 
 # CREATING KEY PAIR
